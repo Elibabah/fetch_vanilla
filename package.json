@@ -1,0 +1,26 @@
+{
+  "name": "fetch_vanilla",
+  "version": "1.0.0",
+  "description": "fetch with js vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elibabah/fetch_vanilla.git"
+  },
+  "keywords": [
+    "fetch",
+    "vanilla"
+  ],
+  "author": "elibabah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elibabah/fetch_vanilla/issues"
+  },
+  "homepage": "https://github.com/Elibabah/fetch_vanilla#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
