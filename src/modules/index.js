@@ -15,7 +15,6 @@ getPersonajes(data => {
                 <div class="image-container">
                     <img src="${personaje.image}" alt="${personaje.name}">
                 </div>
-
                 <h2>${personaje.name}</h2>
                 <span>${personaje.status}</span>
                 <span>${personaje.species}</span>
@@ -24,5 +23,4 @@ getPersonajes(data => {
         const main = document.querySelector("main");
         main.append(pintar)
     })
-
 })
